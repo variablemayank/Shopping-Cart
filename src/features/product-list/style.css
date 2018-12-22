@@ -1,0 +1,11 @@
+.product-listing {
+    display: flex;
+    flex: 1;
+    flex-wrap: wrap;
+    flex-direction: row;
+  }
+  
+  .product-listing .product-list-item {
+    padding: 10px 30px;
+    width: 200px;
+  }
